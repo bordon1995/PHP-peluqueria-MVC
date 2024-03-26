@@ -110,6 +110,6 @@ class ClienteController
 
         $_SESSION = [];
 
-        header('Location:/login');
+        header('Location:/');
     }
 }
